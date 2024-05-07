@@ -2,3 +2,18 @@
  * @file
  * Subtheme specific CSS.
  */
+
+ 
+ 
+.site-footer {
+    background-color: white; 
+
+ }
+
+ .node--view-mode-teaser h2 a {
+    color: #D11315;
+ }
+
+ #main {
+    max-width: 65%;
+ }
